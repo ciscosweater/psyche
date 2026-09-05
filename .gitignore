@@ -1,0 +1,14 @@
+/build/
+.cache/
+.cursor/
+.agents/
+.codex/
+CMakeUserPresets.json
+CMakeLists.txt.user
+*.user
+compile_commands.json
+.clangd/
+.idea/
+.vscode/
+*.AppImage
+*~
